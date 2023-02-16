@@ -1,0 +1,20 @@
+{
+  "name": "js211_looppractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdgrobeck/JS211_LoopPractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdgrobeck/JS211_LoopPractice/issues"
+  },
+  "homepage": "https://github.com/jdgrobeck/JS211_LoopPractice#readme"
+}
